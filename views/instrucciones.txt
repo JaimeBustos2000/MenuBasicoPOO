@@ -1,0 +1,2 @@
+Aqui en cada carpeta separara las tablas involucradas
+Tambien separar cada menu que se abra u opcion
