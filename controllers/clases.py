@@ -1,6 +1,6 @@
 from mysql.connector import connect
 
-
+# AQUI DEBERIAN IR LOS METODOS GENERALES PARA MANIPULAR LA BASE DE DATOS
 
 # Ejemplo aplicado a una clase de vehiculos
 """ 
