@@ -2,6 +2,9 @@ from views.Empleados.menu_empleados import menu_empleado
 from views.Proyecto.menu_proyecto import proyecto
 from views.Departamentos.menu_depto import menu_depto
 
+# AQUI A CADA METODO DEBERIA DE PASAR LA CONEXION INSTANCIADA EN clases.py OSEA LOS MENUS DEBEN TENER LA CONEXION
+
+
 def menu():
     while True:
         print("\n--- Menú ---")
